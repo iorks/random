@@ -1,0 +1,1 @@
+Este programa dice si un número aleatorio es menos que 0.5
